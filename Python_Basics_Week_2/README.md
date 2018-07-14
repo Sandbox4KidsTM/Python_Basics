@@ -341,7 +341,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](README.d/output_16_0.png)
 
 
 
@@ -360,7 +360,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+![png](README.d/output_17_0.png)
 
 
 
@@ -378,7 +378,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![png](README.d/output_18_0.png)
 
 
 ## Requests & Json
