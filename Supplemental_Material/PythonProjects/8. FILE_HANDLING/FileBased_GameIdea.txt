@@ -1,0 +1,7 @@
+Snakes & Ladders: using a Text File
+
+Roll the dice
+Move the Pointer
+If the current Position is a Vowel, jump 5 steps forward.
+If the current Position is a Consonant, jump 5 steps backward.
+You win if you reach the end of the file in x moves.

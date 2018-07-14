@@ -1,0 +1,2 @@
+# Factor of Quadratic Equations
+

@@ -1,0 +1,56 @@
+Scope of Algebra 1: Python Programs:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Chapter 1: PROBLEM SOLVING
+1. Complete the Diamond: xy, x, y, x+y
+2. Guess & Check Strategy
+
+Chapter 2: VARIABLES & PROPORTIONS
+1. Simplifying Algebraic Expressions
+2. Which Algebraic Expression is greater
+3. Solving Single Variable Equations (i.e. solve for x) 
+4. Proportional Relationships (i.e. Completing Tables)
+
+Chapter 3: GRAPHS & EQUATIONS
+- Pandas or MathPlotLib Libraries for Visual Representation
+1. Drawing Graphs: y = mx + b / Ax + By + C = 0
+2. Solving Single Variable Equations
+
+Chapter 4: MULTIPLE REPRESENTATIONS
+1. y = mx + b: Slope & y-intercept
+2. Solving System of Linear Equations: Algebraically
+3. Solving System of Linear Equations: Graphically
+
+Chapter 5: MULTIPLICATION & PROPORTIONS
+1. Mulitplying Algebraic Terms using 
+2. Solve for x, by showing steps
+3. Convert line from Standard Form to Slope-Intercept Form
+4. Check number of 2 linear equations have: one, zero or infinite
+
+Chapter 6: SYSTEM OF EQUATIONS
+1. Evaluating Expressions (e.g. 6x^2 - 3x + 1, when x = -2)
+2. Solving Linear Equations: Equal Values Method
+3. Solving Linear Equations: Elimation Method
+4. Solving Linear Equations: Subtitution Method
+5. Solving Linear Equations: Graphing
+
+Chapter 7: LINEAR RELATIONSHIPS
+- Covered in Chapters 3,4 & 6
+
+Chapter 8: QUADRATIC FUNCTIONS:
+1. Solve Quadratic Equations using Zero Product Property i.e. Factoring
+2. Check if Quadratic is factorable or not
+3. Solution using Quadratic Formula
+4. Properties of Quadratic Function: Max/Min, Axis of Symmetry
+
+Chapter 9: INEQUALITIES
+1. Solving Linear, One-Variable Inequalities
+2. Graphing Non-Linear Inequalities
+3. Solving Equations with Absolute Value 
+4. Solving Systems of Inequalities 
+
+NUMBER SERIES:
+1. If a number series is given, can you identify the pattern?
+2. Arithmetic Series: First, Common Difference, nth Term, Sum of n Terms
+3. Geometric Series: First, Common Ratio, nth Term, Sum of n Terms
+4. Fibonacci Series: nth Term

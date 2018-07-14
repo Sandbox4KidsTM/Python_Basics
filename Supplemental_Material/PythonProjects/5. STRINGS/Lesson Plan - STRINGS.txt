@@ -1,0 +1,23 @@
+Props: Jenga Blocks with a letter on each block
+
+algorithms:
+- find words with letter 'r'
+- anagarams
+- sort letters on a word
+
+Type str.lower? in console to get description
+https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str (Section 4.7)
+
+REFERENCE:
+https://www.youtube.com/watch?v=pqmhZcPpTys
+
+EXERCISES:
+http://codingbat.com/prob/p132290
+
+Exercices:
+Given an "out" string length 4, such as "<<>>", and a word, return a new string where the word is in the middle of the out string, e.g. "<<word>>".
+make_out_word('<<>>', 'Yay') ? '<<Yay>>'
+make_out_word('<<>>', 'WooHoo') ? '<<WooHoo>>'
+make_out_word('[[]]', 'word') ? '[[word]]'
+def make_out_word(out, word):
+  return(out[0:2]+word+out[2:4])

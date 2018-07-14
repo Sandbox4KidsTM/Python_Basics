@@ -1,0 +1,72 @@
+DETAILED INSTRUCTIONS FOR INSTALLING PYTHON:
+https://docs.anaconda.com/anaconda/install/
+
+ONE in a BILLION
+Guessing Game: User Guesses
+Guessing Game: Computer Guesses (unoptimzed)
+Guessing Game: Computer Guesses (optimized)
+
+Terminal Apps: simple elegant quick code, no layers of abstraction, understand user interaction issues
+Greet & Sleep
+Menu: Run, Bike, Swim (ask user and give/print responses)
+Quiz
+
+Review:
+While Loops
+
+Break-out SESSIONS: pair up students
+https://mathigon.org/world/Sequences
+Number Series: https://edublognss.wordpress.com/2013/04/16/famous-mathematical-sequences-and-series/
+https://www.quora.com/What-is-most-famous-number-series-besides-Fibonacci
+Print Fibonacci Series: 1,1,2,3,5,8,13,21,34,55,89…
+Print Figurate Numbers series like square (1, 4, 9, 16, etc.) triangular (1, 3, 6, 10, etc.), pentagonal, hexagonal no. series.
+
+Indentation
+
+
+Introduce Variables: Types, Change Formats, "operations" on Variable Types, etc.
+- http://introtopython.org/var_string_num.html#
+- Variable Naming Convention
+- Keywords (i.e. reserved words in Python)
+Introduce Functions: currencyConversion, areaCalculation, stringConcatenation
+
+Python Keywords (33 in total)
+False 
+True
+None
+and
+as
+assert
+break
+class
+finally
+is
+return
+except
+in
+raise
+else
+import
+pass
+elif
+if
+or
+yield
+del
+global
+not
+with
+continue
+for 
+lambda
+try
+def
+from
+nonlocal
+while
+
+
+---
+Python Libraries
+Python Standard Libraries: https://docs.python.org/3/library/index.html (31 standard packages)
+Python Complete Libraries: pypi (Python Package Index): https://pypi.python.org/pypi (currently 121554 packages)
