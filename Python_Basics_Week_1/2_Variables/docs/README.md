@@ -117,7 +117,7 @@ print("Fahrenheit:",Tf)
 Awesome! We can use these variables to make math easier as well.
 For example, let's say we have an equation like:
 
-![gif](latex.gif)
+![gif](math.gif)
 
 We can use variables to easily evalueate this expression with different values of `x` and `y`.
 
