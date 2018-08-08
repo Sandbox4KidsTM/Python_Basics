@@ -1,3 +1,4 @@
+![jpg](Sandbox_Logo.jpg)
 
 # Python Variables
 
@@ -13,11 +14,7 @@ input("What is your name? ")
 ```
 
     What is your name?  Sandbox
-
-
-
-
-
+    
     'Sandbox'
 
 
