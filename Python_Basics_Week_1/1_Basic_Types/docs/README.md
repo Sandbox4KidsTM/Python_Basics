@@ -1,4 +1,5 @@
-![jpg](/docs/Sandbox_Logo.jpg)
+
+ ![jpg](/docs/Sandbox_Logo.jpg)
 # Python Basic Types & User Interaction
 
 This lession is intended as your very first introduction to Python.
@@ -414,7 +415,7 @@ int("20")
 
 Booleans and Floats have similar casting functions (`bool()` and `float()`) that work in the same way.
 
-Challenges: 
-* Solve multistep math problems using Python. (Illustrates the need for variables as well as gives practice)
-* Use print and input statements to interface with a user.
-* There are many more built-in functions, have the students look them up [here](https://docs.python.org/3/library/functions.html).
+### Challenges: 
+1. Solve multistep math problems using Python. (Illustrates the need for variables as well as gives practice)
+2. Use print and input statements to interface with a user.
+3. There are many more built-in functions, have the students look them up [here](https://docs.python.org/3/library/functions.html).

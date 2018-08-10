@@ -1,3 +1,4 @@
+
 ![jpg](/docs/Sandbox_Logo.jpg)
 
 # Python Variables
@@ -14,7 +15,11 @@ input("What is your name? ")
 ```
 
     What is your name?  Sandbox
-    
+
+
+
+
+
     'Sandbox'
 
 
@@ -55,7 +60,9 @@ So to store a value in a variable we do something like this:
 We use a single equal sign to **assign** a *value* to a **variable**. 
 
 We have the freedom to choose our variable name. But we need to follow a few rules:
-* Our variable name cannot *start* with a number (5guys is not a valid variable name)
+* Our variable name *must* start with a letter or an underscore (5guys is not a valid variable name)
+* Variables can only contain letters, numbers, and underscores. (A-z, 0-9, _)
+* Variable names *are* case sensitive. (age, Age, and AGE are three different variables)
 * Our variable cannot contain spaces or reserved words. Some common reserved words:
     * and
     * or
@@ -86,15 +93,18 @@ Lets use variables to create a useful application, converting Fahrenheit to Celc
 ```python
 # Ask the user for a temperature, store to variable
 Tempf = input("What is the temperature(f): ")
+
 # Change that temp into a float, (from a string)
 Tempf = float(Tempf)
+
 # Convert that number into Celcius from Fahrenheit
 # Tc = (Tf - 32) x (5/9)
 TempC = (Tempf - 32) * (5/9)
+
 # Print out that number. With some info
 print("Celcius:", TempC)
 
-# Go the other direction
+# Going the other direction
 # Tf = ((9/5) x Tc) + 32
 Tc = input("What is the temperature(c): ")
 Tc = float(Tc)
@@ -117,7 +127,7 @@ print("Fahrenheit:",Tf)
 Awesome! We can use these variables to make math easier as well.
 For example, let's say we have an equation like:
 
-![gif](math.gif)
+![gif](docs/math.gif)
 
 We can use variables to easily evalueate this expression with different values of `x` and `y`.
 
@@ -150,3 +160,10 @@ y = 1
 
 
 We will be using variables for the rest of our Python journey!. You will get lots and lots of practice creating and using variables in your programs so come back and take a look at the ideas above any time!
+
+### Challenges
+ 1. Implement Pythogorean's Theorem:
+ 
+ ![png](docs/pythag.png)
+ 
+ Given two sides of a right triable (a and b) calculate the length of the longest side (c). Things to keep in mind: 4 squared can be written as `4**2`, and we will need to use the square root function from the `math` module. Add `import math` to the top of the file and use `math.sqrt()` to find square roots.
