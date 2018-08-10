@@ -1,4 +1,4 @@
-!(jpg)[/docs/Sandbox_Logo.jpg]
+![jpg](/docs/Sandbox_Logo.jpg)
 # Python Basic Types & User Interaction
 
 This lession is intended as your very first introduction to Python.

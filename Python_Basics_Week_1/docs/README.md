@@ -1,4 +1,4 @@
-
+![jpg](/docs/Sandbox_Logo.jpg)
 # Python Basics- Day 1
 
 We are going to be learning the basics of python.
