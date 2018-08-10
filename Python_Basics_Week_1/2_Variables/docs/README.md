@@ -1,4 +1,4 @@
-![jpg](https://github.com/Sandbox4KidsTM/Python_Basics/docs/Sandbox_Logo.jpg)
+![jpg](/docs/Sandbox_Logo.jpg)
 
 # Python Variables
 
