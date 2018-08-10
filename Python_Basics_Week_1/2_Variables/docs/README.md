@@ -127,7 +127,7 @@ print("Fahrenheit:",Tf)
 Awesome! We can use these variables to make math easier as well.
 For example, let's say we have an equation like:
 
-![gif](docs/math.gif)
+![gif](math.gif)
 
 We can use variables to easily evalueate this expression with different values of `x` and `y`.
 
@@ -164,6 +164,6 @@ We will be using variables for the rest of our Python journey!. You will get lot
 ### Challenges
  1. Implement Pythogorean's Theorem:
  
- ![png](docs/pythag.png)
+ ![png](pythag.png)
  
  Given two sides of a right triable (a and b) calculate the length of the longest side (c). Things to keep in mind: 4 squared can be written as `4**2`, and we will need to use the square root function from the `math` module. Add `import math` to the top of the file and use `math.sqrt()` to find square roots.
